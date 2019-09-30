@@ -1,0 +1,37 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	margin-left: 5px;
+}
+body{
+	background: rgb(19, 60, 172);
+}
+.header {
+	padding: 20px;
+	text-align: center;
+}
+.imagen{
+	width: 250px;
+	height: 145px;
+}
+.caja{
+	width: 20%;
+	height: 20%;
+}
+#boton{
+	font-size: 18px;
+}
+#section1{
+	float: right;
+	width: 300px;
+	height: 582px;
+}
+#section2{
+	width: 1030px;
+	height: 155px;
+}
+#section3{
+	width: 1030px;
+	height: 430px;
+}
